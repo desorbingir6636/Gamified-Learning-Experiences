@@ -1,2 +1,1 @@
-# Gamified-Learning-Experiences
-предназначен для создания приложений для iOS и Android
+анализа изображений и видео
